@@ -12,6 +12,7 @@
             <input type="text" name="megnevezes" class="form-control" value="{{$blog->megnevezes}}">
 
         </div>
+        <input type="file" name="files" class="form-control">
         <div class="form-group">
             <label for="bevezeto">Bevezető</label>
             <textarea name="bevezeto" rows="5" class="form-control" >{{$blog->bevezeto}}</textarea>

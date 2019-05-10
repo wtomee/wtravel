@@ -39,7 +39,7 @@
 
     </div>
     <div class="form-group">
-    <button type="submit" class="btn btn-outline-primary">Add BlogPost</button>
+    <button type="submit" class="btn btn-outline-primary">Utazás felvitele</button>
     
     </div>
 </form>
